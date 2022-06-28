@@ -1,5 +1,5 @@
 # my50projects
-基于50天50个小项目的练习
+50天50个小项目的练习
 
 练习参考与：https://github.com/bradtraversy/50projects50days
 |序号|项目名称|项目效果展示|
